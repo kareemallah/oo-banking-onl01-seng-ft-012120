@@ -38,4 +38,6 @@ def account_hash
 end
 end
 
+avi = BankAccount.new("Avi")
+ avi.account_hash
 
